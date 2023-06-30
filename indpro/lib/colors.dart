@@ -1,0 +1,21 @@
+import 'package:flutter/material.dart';
+
+const Color background = Color(0xFFEED0D0);
+const Color darkpink = Color(0xFFEF8F8F);
+const Color textcolor = Color(0xff313536);
+const Color textcolor2 = Color(0xff3B3C3E);
+const Color textfieldcolor = Color(0xffF2F2F2);
+const Color textfieldcolor2 = Color(0xff777778);
+const Color dropdowncolor = Color(0xFFF7F7F7);
+const Color textcolor3 = Color(0xffAAAAAA);
+const Color textcolor4 = Color(0xff000000);
+const Color black = Color(0xff000000);
+const Color blacko = Color.fromRGBO(0, 0, 0, 0.8);
+const Color white = Color(0xffffffff);
+const Color lightgray = Color(0xff868889);
+const Color babypink = Color(0xffFFF3F3);
+const Color greyb = Color(0xff515355);
+const Color blacki = Color(0xff232536);
+const Color paspurp = Color(0xffB289F3);
+const Color contai = Color(0xff966FD6);
+const Color nyuviol = Color(0xff57068C);
